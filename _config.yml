@@ -1,3 +1,5 @@
+theme: Clean Blog - Jekyll
+
 # Site Information
 license:           "MIT"
 license-url:       "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
@@ -54,3 +56,4 @@ paginate_path: "/blog/page:num/"
 
 # Blog Excerpt Separator
 excerpt_separator: "<!--more-->"
+
