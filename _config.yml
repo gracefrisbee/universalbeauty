@@ -1,4 +1,5 @@
-theme: Clean Blog - Jekyll
+theme: jekyll-theme-clean-blog
+
 
 # Site Information
 license:           "MIT"
